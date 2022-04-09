@@ -230,15 +230,7 @@ int main()
 
 	}
 
-	for (int i = 0; i < rows; ++i)
-	{
-		for (int j = 0; j < cols - 3; ++j)
-		{
-			zxcv A = { arr[i][j] };
-			cout << A.x << endl;
 
-		}
-	}
 	std::cout << "Hello";
 
 
